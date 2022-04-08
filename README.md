@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ratchapong-Kongsuk
+- 👋 Hi, I’m Ratchapong-Kongsuk (Male)
 - 👀 I’m interested in Python ,JavaScript ,C++
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m a student (middle school)
