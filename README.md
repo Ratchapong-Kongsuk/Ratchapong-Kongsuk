@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ratchapong-Kongsuk (Male)
+- 👋 Hi, My name is Ratchapong Kongsuk (Male)
 - 👀 I’m interested in Python ,JavaScript ,C++
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m a student (middle school)
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m a high school student
 - 📫 How to reach me Gmail : namoratchapong@gmail.com
 
 <!---
